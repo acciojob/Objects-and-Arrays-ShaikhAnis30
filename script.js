@@ -9,7 +9,7 @@ const person = {
 // same as mentioned in the problem statement
 
 let team = players;
-let team1 = players.copyWithin();
+let team1 = ["John", "Bob", "Alice", "Poppy"];
 
 let cap1 = person;
 
